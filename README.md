@@ -24,8 +24,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakaklij&show_icons=true&locale=en&layout=compact" alt="adityakaklij" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakaklij&show_icons=true&locale=en" alt="adityakaklij" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakaklij&" alt="adityakaklij" /></p>
